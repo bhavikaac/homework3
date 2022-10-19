@@ -171,7 +171,7 @@ header p{
   margin: auto;
   /*Your code here:*/
   text-align: center;
-  max-height: 25%;
+  max-height: 25vh;
   overflow: scroll;
   /*Align the content in the center */
 }
@@ -191,6 +191,7 @@ header p{
     padding: 35px 0px;
     align-self: center;
     float: right;
+    top: -20px;
   }
 
    .about, .clients, .method-image, .contact-image {
